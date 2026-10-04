@@ -1,0 +1,10 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+secrets.h
+
+# Generated files
+.DS_Store
+build/
+
